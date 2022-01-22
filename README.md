@@ -4,7 +4,7 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I wa
 
 - 💛 Tools and Technologies I love : Kotlin, Jetpack compose, Coroutines , Github Actions
 - 📱I’m currently working on two Android apps - Examer (An app focused on quizzes based on audio files) and Pocket ( A clone of the popular Pocket app) 
-- 👨🏻‍💻I’m currently learning about CI, automating CI workflows with Github actions.
+- 👨🏻‍💻I’m currently learning about CI and automating CI workflows with Github actions.
 - 😄 Pronouns : he/his
 - 🎾 Fun fact : Besides programming, I also really like to play tennis.
 
