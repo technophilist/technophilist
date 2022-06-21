@@ -19,3 +19,4 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
 
 | Project |    |
 |---------|----|
+| <h3>Pocket</h3> <p> A sample app that tries to mimics the functionality of the popular Pocket app. <br> The main aim of this app was to test the applicability of compose in a small sized, offline app. </p> <ul> <li> Offline app </li> <li> UI fully written using compose </li> <li> Firebase authentication </li> <li> Hilt </li> <li> Workmanager </li> </ul> <a> > Browse repository </a> <br> <a> > View full tech stack </a> | <img src = "screenshots/pocket.png" height="360" width="180" > |
