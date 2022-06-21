@@ -17,3 +17,9 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
 
 # Projects
 
+<table>
+  <tr>
+    <th> Project </th>
+    <th> Screenshot </th>
+  </tr>
+</table>
