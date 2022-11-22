@@ -16,6 +16,24 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
 
 [![Techkid's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3chkid&hide=issues,stars,contribs&count_private=true&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
+# 📚 Libraries 
+<table>
+  <tr>
+    <th> Library <th>
+  </tr> 
+<tr>
+  <td>
+    <h4> Branded Buttons for Jetpack Compose </h4>
+    <p align = "left">Branded Buttons for Jetpack Compose is a library that contains stylized buttons according to the specification of each brand. It allows you to create high quality social sign-in, sign-up, and "continue with" buttons. Just tell the library which brand and variant is required. The library takes care of creating a button with the required brand colors and logo with accessibility in mind.</p>
+  <a href = "https://github.com/t3chkid/branded-buttons-compose"> > Browse Repository </p>
+  </td>
+  <td width = "480" height = "270">
+  <img src = "https://github.com/t3chkid/branded-buttons-compose/blob/main/images/banner.png" width = "480" height = "270" />
+  </td>
+</tr>
+</table>
+
+
 # 🔨 Projects
 <!-- To get a formatted view of the table, copy,paste the table in http://markdowntable.com -->
 | Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                       |
