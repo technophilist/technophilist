@@ -28,7 +28,7 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
   <a href = "https://github.com/t3chkid/branded-buttons-compose"> > Browse Repository </p>
   </td>
   <td width = "480" height = "270">
-  <img src = "https://github.com/t3chkid/branded-buttons-compose/blob/main/images/banner.png" width = "480" height = "270" />
+  <a href = "https://github.com/t3chkid/branded-buttons-compose"> <img src = "https://github.com/t3chkid/branded-buttons-compose/blob/main/images/banner.png" width = "480" height = "270" /> </a>
   </td>
 </tr>
 </table>
