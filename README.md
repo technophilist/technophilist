@@ -3,7 +3,7 @@
 I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I also have a very keen interest in software architecture 👷🏻. I was primarily a Java developer until I got to taste Kotlin.  I became an ardent fan of Kotlin the day I wrote the first line of Kotlin code. I have 2 years of experience using Kotlin. Recently I got really interested into CI and automating CI workflows 🤖. I am also a big fan of IDE’s built by Jetbrains and I’ve been working with IntelliJ and Android Studio for more than three years. I also have experience working with Firebase Authentication,Cloud Firestore and Firebase storage.
 
 - 💛 Tools and Technologies I love : Kotlin, Jetpack compose, Coroutines , Github Actions
-- 👨🏼‍💻 I’m currently working on a translator app with Text-to-Speech support. 
+- 💬 I’m currently working on an online messaging app.
 - 😄 Pronouns : he/his
 - 🎾 Fun fact : Besides programming, I also really like to play tennis.
 - 📖 Blogs : I recently started writing technical blog posts. You can check theme out from [here](https://medium.com/@theAndroidDeveloper).
