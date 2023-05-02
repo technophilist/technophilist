@@ -20,6 +20,7 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
 <table>
   
   <tr>
+    
    <td width = "226">
       <img src = "article_thumbnails/Displaying-HTML-text-in-Jetpack-Compose.png"  height = "108.4" />
    </td>
@@ -34,6 +35,12 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
     
    <td width = "226">
      <img src = "article_thumbnails/The-number-one-mistake-people-do-when-using-Cloud-Firestore’s-Android-SDK.png" height = "108.4"/>
+    </td>
+    
+   <td width = "226">
+     <img src = "article_thumbnails/Jetpack-Compose-gets-official-support-for-Marquee!-Here’s-how-to-use-it!.png" height = "108.4"/>
+    </td>
+    
   </tr>
 
   <tr> 
@@ -41,6 +48,7 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
     <td width = "225.6" align = "center"> derivedStateof{} vs remember{} with keys - The difference</td>
     <td width = "225.6" align = "center"> Yet another pitfall in Jepack Compose you must be aware of</td>
     <td width = "225.6" align = "center"> The #1 mistake people do when using Cloud-Firestore’s Android SDK</td>
+    <td width = "225.6" align = "center"> Jetpack Compose gets official support for Marquee! Here’s how to use it!</td>
   </tr>
   
   <tr>
@@ -48,6 +56,7 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
     <td width = "225.6" align = "center"> <a href = "https://medium.com/@theAndroidDeveloper/derivedstateof-vs-remember-with-keys-the-difference-6d047da41bee">  Read Blog </a> </td>
     <td width = "225.6" align = "center"> <a href = "https://medium.com/@theAndroidDeveloper/yet-another-pitfall-in-jetpack-compose-you-must-be-aware-of-225a1d07d033">  Read Blog </a> </td>
         <td width = "225.6" align = "center"> <a href = "https://medium.com/@theAndroidDeveloper/the-1-mistake-people-do-when-using-cloud-firestores-android-sdk-f855063d0a14">  Read Blog </a> </td>
+            <td width = "225.6" align = "center"> <a href = "https://medium.com/@theAndroidDeveloper/jetpack-compose-gets-official-support-for-marquee-heres-how-to-use-it-1f678aecb851">  Read Blog </a> </td>
   </tr>
 
 </table>
