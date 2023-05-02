@@ -20,16 +20,16 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
 <table>
   
   <tr>
-   <td width = "225.6">
-      <img src = "article_thumbnails/Displaying-HTML-text-in-Jetpack-Compose.png"  height = "125.4" />
+   <td width = "226">
+      <img src = "article_thumbnails/Displaying-HTML-text-in-Jetpack-Compose.png"  height = "108.4" />
    </td>
    
-   <td width = "225.6">
-      <img src = "article_thumbnails/derivedStateOf{}-vs-remember{}-with-keys-The-difference.png"  height = "125.4" />
+   <td width = "226">
+      <img src = "article_thumbnails/derivedStateOf{}-vs-remember{}-with-keys-The-difference.png"  height = "108.4" />
    </td>
   
-   <td width = "225.6">
-      <img src = "article_thumbnails/Yet-another-pitfall-in-Jetpack-Compose-you-must-be-aware-of.png" height = 125.4>
+   <td width = "226">
+      <img src = "article_thumbnails/Yet-another-pitfall-in-Jetpack-Compose-you-must-be-aware-of.png" height = "108.4">
    </td>
   </tr>
 
