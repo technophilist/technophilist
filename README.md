@@ -15,6 +15,38 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
 
 [![Techkid's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3chkid&hide=issues,stars,contribs&count_private=true&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
+# 📝 Recent Blogs 
+
+<table>
+  
+  <tr>
+   <td width = "225.6">
+      <img src = "article_thumbnails/Displaying-HTML-text-in-Jetpack-Compose.png"  height = "125.4" />
+   </td>
+   
+   <td width = "225.6">
+      <img src = "article_thumbnails/derivedStateOf{}-vs-remember{}-with-keys-The-difference.png"  height = "125.4" />
+   </td>
+  
+   <td width = "225.6">
+      <img src = "article_thumbnails/Yet-another-pitfall-in-Jetpack-Compose-you-must-be-aware-of.png" height = 125.4>
+   </td>
+  </tr>
+
+  <tr> 
+    <td width = "225.6" align = "center"> Displaying HTML text in Jetpack-Compose </td>
+    <td width = "225.6" align = "center"> derivedStateof{} vs remember{} with keys - The difference</td>
+    <td width = "225.6" alighn = "center"> Yet another pitfall in Jepack Compose you must be aware of</td>
+  </tr>
+  
+  <tr>
+    <td width = "225.6" align = "center"> <a href = "https://medium.com/@theAndroidDeveloper/displaying-html-text-in-jetpack-compose-7b801bb028c6">  Read Blog </a> </td>
+    <td width = "225.6" align = "center"> <a href = "https://medium.com/@theAndroidDeveloper/derivedstateof-vs-remember-with-keys-the-difference-6d047da41bee">  Read Blog </a> </td>
+    <td width = "225.6" align = "center"> <a href = "https://medium.com/@theAndroidDeveloper/yet-another-pitfall-in-jetpack-compose-you-must-be-aware-of-225a1d07d033">  Read Blog </a> </td>
+  </tr>
+
+</table>
+
 # 📚 Libraries 
 <table>
   <tr>
