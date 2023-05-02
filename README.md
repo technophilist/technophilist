@@ -36,7 +36,7 @@ I’m a passionate Android developer 💚 and a huge Kotlin enthusiast💜. I al
   <tr> 
     <td width = "225.6" align = "center"> Displaying HTML text in Jetpack-Compose </td>
     <td width = "225.6" align = "center"> derivedStateof{} vs remember{} with keys - The difference</td>
-    <td width = "225.6" alighn = "center"> Yet another pitfall in Jepack Compose you must be aware of</td>
+    <td width = "225.6" align = "center"> Yet another pitfall in Jepack Compose you must be aware of</td>
   </tr>
   
   <tr>
