@@ -97,7 +97,7 @@ working with Firebase Authentication,Cloud Firestore and Firebase storage.
   </tr> 
 <tr>
   <td>
-    <h4> Notes - A Kotlin Multiplatform Notes App</h4>
+    <h4> <a href = "https://github.com/t3chkid/KMP-Notes-App"> Notes - A Kotlin Multiplatform Notes App </a> </h4>
     <p align = "left">Notes is a simple note taking app built with KMP(Kotlin Multiplatform), formerly known as KMM (Kotlin Multiplatform Mobile). The app is supported on both iOS and Android. The UI is written in Jetpack Compose for Android & Swift UI for IOS.</p>
   <a href = "https://github.com/t3chkid/KMP-Notes-App"> > Browse Repository </a>
   </td>
