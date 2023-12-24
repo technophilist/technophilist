@@ -6,7 +6,7 @@ I wrote the first line of Kotlin code. I have 3 years of experience using Kotlin
 Jetbrains and I’ve been working with IntelliJ and Android Studio for more than three years. I also have experience
 working with Firebase Authentication,Cloud Firestore and Firebase storage.
 
-- 💛 Tools and Technologies I love : Kotlin, Jetpack compose, Coroutines , Github Actions
+- 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), Jetpack compose, Coroutines, Kotlin Flows
 - 📝 I’m currently working on an AI powered Landmark detection Android App
 - 😄 Pronouns : he/his
 - 🎾 Fun fact : Besides programming, I also really like to play tennis.
