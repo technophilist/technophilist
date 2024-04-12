@@ -7,7 +7,7 @@ Jetbrains and I’ve been working with IntelliJ and Android Studio for more than
 working with Firebase Authentication,Cloud Firestore and Firebase storage.
 
 - 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), Jetpack compose, Coroutines, Kotlin Flows
-- 📝 I’m currently working on an AI powered Landmark detection Android App
+- 📝 I’m currently working on a fully AI powered app that allows users to point at things & ask questions to a LLM. 
 - 😄 Pronouns : he/his
 - 🎾 Fun fact : Besides programming, I also really like to play tennis.
 - 📖 Blogs : I recently started writing technical blog posts. You can check them
