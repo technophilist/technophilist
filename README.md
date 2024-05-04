@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I’m a passionate Android developer 💚, an extreme Kotlin enthusiast 💜, and a huge fan of Jetpack Compose 💙. I also have a very keen interest in software
-architecture 👷🏻. I was primarily a Java developer until I tried Kotlin. I became an ardent fan of Kotlin the day
-I wrote the first line of Kotlin code. I have 3 years of experience using Kotlin. I am also a big fan of IDE’s built by
-Jetbrains and I’ve been working with IntelliJ and Android Studio for more than three years. I also have experience
-working with Firebase Authentication,Cloud Firestore and Firebase storage.
+I’m a passionate Android developer 💚, an extreme Kotlin enthusiast 💜, and a practitioner of backend development with Node.js 💙. 
+While my favorite programming language of choice is undoubtedly Kotlin with 3 years of experience using it, I also have experience working with 
+other programming languages like Java, Python, and JavaScript. I am also a big fan of IDEs built by Jetbrains and I’ve been working with 
+IntelliJ and Android Studio for more than three years. Besides that, I also have experience working with cloud technologies like 
+Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, and AWS Lightsail.
 
 - 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), Jetpack compose, Coroutines, Kotlin Flows
 - 📝 I’m currently working on a fully AI powered app that allows users to point at things & ask questions to a LLM. 
