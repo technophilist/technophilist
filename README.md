@@ -7,7 +7,7 @@ IntelliJ and Android Studio for more than three years. Besides that, I also have
 Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, and AWS Lightsail.
 
 - 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), Jetpack compose, Coroutines, Kotlin Flows
-- 📝 I’m currently working on a fully AI powered app that allows users to point at things & ask questions to a LLM. 
+- 📝 I’m currently working on building a real-world, fully automated, backend focused newsletter service deployed on AWS.
 - 😄 Pronouns : he/his
 - 📖 Blogs : I recently started writing technical blog posts. You can check them
   out [here](https://medium.com/@theAndroidDeveloper).
