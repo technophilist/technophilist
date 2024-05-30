@@ -9,7 +9,6 @@ Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, and A
 - 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), Jetpack compose, Coroutines, Kotlin Flows
 - 📝 I’m currently working on a fully AI powered app that allows users to point at things & ask questions to a LLM. 
 - 😄 Pronouns : he/his
-- 🎾 Fun fact : Besides programming, I also really like to play tennis.
 - 📖 Blogs : I recently started writing technical blog posts. You can check them
   out [here](https://medium.com/@theAndroidDeveloper).
 
