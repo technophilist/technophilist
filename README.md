@@ -4,7 +4,7 @@ I’m a passionate Android developer 💚, an extreme Kotlin enthusiast 💜, an
 While my favorite programming language of choice is undoubtedly Kotlin with 3 years of experience using it, I also have experience working with 
 other programming languages like Java, Python, and JavaScript. I am also a big fan of IDEs built by Jetbrains and I’ve been working with 
 IntelliJ and Android Studio for more than three years. Besides that, I also have experience working with cloud technologies like 
-Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, and AWS Lightsail.
+Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, AWS Elastic Beanstalk and Twilio SendGrid.
 
 - 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), Jetpack compose, Coroutines, Kotlin Flows
 - 📝 I’m currently working on building a real-world, fully automated, backend focused newsletter service deployed on AWS.
