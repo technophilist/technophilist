@@ -106,7 +106,7 @@ Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, AWS E
     <li> EJS (Embeded JavaScript) </li>
     <li> Twilio SendGrid </li>
   </ul>
-  <p> > Browse Repository (Coming soon) </p>
+  <p> <a href = "https://github.com/technophilist/word-morning-readme"> > View Full Readme </a> </p>
   <p></p>
   </td>
   <td width = "480" height = "270">
