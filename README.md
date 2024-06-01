@@ -89,11 +89,31 @@ Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, AWS E
 
 </table>
 
-## ⏱ Wear OS
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| <a href = "https://github.com/t3chkid/Clocky"> <img src="logos/clocky.png" width = "240" > </a> <p> A fun stopwatch app that uses the power of trigonometry <br> to create a beautiful animation while running. </p> <ul><li> Jetpack Compose for Wear OS</li><li> Canvas API (Compose)</li><li> Android Services</li><li> Flows</li><li> Coroutines</li><li> Java 8 Date/Time API</li></ul> <a href="https://github.com/t3chkid/Clocky"> > Browse Repository </a> <br><a href="https://github.com/t3chkid/Clocky#tech-stack"> > View full tech stack </a> | <a href = "https://github.com/t3chkid/Clocky"><img src = "https://github.com/t3chkid/Clocky/blob/main/screenshots/running.png" width = "256" height = "256" /> </a>|
+## 🌐 Backend
+<table>
+  <tr>
+    <th> Description <th>
+  </tr> 
+<tr>
+  <td>
+    <h4> <a href = "https://wordmorning.com"> wordmorning.com </a> </h4>
+    <p align = "left"> A fully automated daily email newsletter service aimed at improving the vocabulary of new learners of the English language.</p>
+  <ul>
+    <li> AWS </li>
+    <li> Docker </li>
+    <li> TypeScript </li>
+    <li> Node.js </li>
+    <li> EJS (Embeded JavaScript) </li>
+    <li> Twilio SendGrid </li>
+  </ul>
+  <p> > Browse Repository (Coming soon) </p>
+  <p></p>
+  </td>
+  <td width = "480" height = "270">
+  <a href = "https://wordmorning.com"> <img src = "screenshots/word-morning.png" width = "480" height = "270" /> </a>
+  </td>
+</tr>
+</table>
 
 ## 💜 Kotlin Multiplatform 
 
@@ -112,6 +132,12 @@ Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, AWS E
   </td>
 </tr>
 </table>
+
+## ⏱ Wear OS
+
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| <a href = "https://github.com/t3chkid/Clocky"> <img src="logos/clocky.png" width = "240" > </a> <p> A fun stopwatch app that uses the power of trigonometry <br> to create a beautiful animation while running. </p> <ul><li> Jetpack Compose for Wear OS</li><li> Canvas API (Compose)</li><li> Android Services</li><li> Flows</li><li> Coroutines</li><li> Java 8 Date/Time API</li></ul> <a href="https://github.com/t3chkid/Clocky"> > Browse Repository </a> <br><a href="https://github.com/t3chkid/Clocky#tech-stack"> > View full tech stack </a> | <a href = "https://github.com/t3chkid/Clocky"><img src = "https://github.com/t3chkid/Clocky/blob/main/screenshots/running.png" width = "256" height = "256" /> </a>|
 
 ## 💚 Android
 
