@@ -6,7 +6,7 @@ other programming languages like Java, Python, and JavaScript. I am also a big f
 IntelliJ and Android Studio for more than three years. Besides that, I also have experience working with cloud technologies like 
 Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, AWS Elastic Beanstalk and Twilio SendGrid.
 
-- 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), Jetpack compose, Coroutines, Kotlin Flows
+- 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), TypeScript, Node.js, AWS, Docker.  
 - 📝 I’m currently working on building a real-world, fully automated, backend focused newsletter service deployed on AWS.
 - 😄 Pronouns : he/his
 - 📖 Blogs : I recently started writing technical blog posts. You can check them
