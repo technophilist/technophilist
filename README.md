@@ -7,7 +7,7 @@ IntelliJ and Android Studio for more than three years. Besides that, I also have
 Firebase Authentication, Cloud Firestore, Firebase Cloud Storage, AWS SES, AWS Elastic Beanstalk and Twilio SendGrid.
 
 - 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), TypeScript, Node.js, AWS, Docker.  
-- 📝 I’m currently working on building a real-world, fully automated, backend focused newsletter service deployed on AWS.
+- 📝 I’m currently working on : A fullstack notes app with React, Express.js, Node.js and TypeScript.
 - 😄 Pronouns : he/his
 - 📖 Blogs : I recently started writing technical blog posts. You can check them
   out [here](https://medium.com/@theAndroidDeveloper).
