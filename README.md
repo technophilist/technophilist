@@ -105,6 +105,28 @@
   <td width = "480" height = "270">
   <a href = "https://wordmorning.com"> <img src = "screenshots/word-morning.png" width = "480" height = "270" /> </a>
   </td>
+  
+</tr>
+  </tr>
+  <tr>
+  <td>
+    <h4> Noteworthy </h4>
+    <p align = "left"> A simple full stack notes web app built with React.</p>
+  <ul>
+    <li> React </li>
+    <li> Node.js </li>
+    <li> Express.js </li>
+    <li> TypeScript </li>
+    <li> Docker </li>
+  </ul>
+  <p> <a href = "https://github.com/technophilist/noteworthy-backend"> > Browse Backend Repository </a> </p>
+  <p></p>
+  <p> > Browse Frontend Repository (Coming Soon) </p>
+  </td>
+  <td width = "480" height = "270">
+  <!-- Surround img tag with <a> </a> with link to frontend repo-->
+  <img src = "screenshots/noteworthy.png"/>
+  </td>
 </tr>
 </table>
 
