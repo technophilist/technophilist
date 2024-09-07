@@ -82,7 +82,7 @@
 
 </table>
 
-## 🌐 Backend
+## 🌐 Web
 <table>
   <tr>
     <th> Description <th>
@@ -110,7 +110,7 @@
   </tr>
   <tr>
   <td>
-    <h4> Noteworthy </h4>
+    <h4> Noteworthy (Work-in-progress) </h4>
     <p align = "left"> A simple full stack notes web app built with React.</p>
   <ul>
     <li> React </li>
