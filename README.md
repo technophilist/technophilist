@@ -108,7 +108,24 @@
   
 </tr>
   </tr>
-  <tr>
+<tr>
+  <td>
+    <h4> Kanbas (A clone of Canvas)  🚧 Work-in-progress 🚧</h4>
+    <p align = "left"> A simple clone of the official Canvas app. Built with React & Bootstrap.</p>
+  <ul>
+    <li> React </li>
+    <li> React-Icons </li>
+    <li> Bootstrap </li>
+    <li> TypeScript </li>
+  </ul>
+  <p> > Browse Repository (Coming Soon) </p>
+  </td>
+  <td width = "480" height = "270">
+  <!-- Surround img tag with <a> </a> with link to frontend repo-->
+  <img src = "screenshots/kanbas.png"/>
+  </td>
+</tr>
+<tr>
   <td>
     <h4> Noteworthy (Work-in-progress) </h4>
     <p align = "left"> A simple full stack notes web app built with React.</p>
