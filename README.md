@@ -125,7 +125,7 @@
   <img src = "screenshots/kanbas.png"/>
   </td>
 </tr>
-<tr>
+<!-- <tr>
   <td>
     <h4> Noteworthy (Work-in-progress) </h4>
     <p align = "left"> A simple full stack notes web app built with React.</p>
@@ -142,9 +142,9 @@
   </td>
   <td width = "480" height = "270">
   <!-- Surround img tag with <a> </a> with link to frontend repo-->
-  <img src = "screenshots/noteworthy.png"/>
+<!--   <img src = "screenshots/noteworthy.png"/>
   </td>
-</tr>
+</tr> -->
 </table>
 
 ## 💜 Kotlin Multiplatform 
