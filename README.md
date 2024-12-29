@@ -108,7 +108,7 @@
   </tr>
 <tr>
   <td>
-    <h4> Kanbas (A clone of Canvas)  🚧 Work-in-progress 🚧</h4>
+    <h4> Kanbas (A clone of Canvas)</h4>
     <p align = "left"> A simple clone of the official Canvas app. Built with React & Bootstrap.</p>
   <ul>
     <li> React </li>
@@ -116,7 +116,8 @@
     <li> Bootstrap </li>
     <li> TypeScript </li>
   </ul>
-  <p> > Browse Repository (Coming Soon) </p>
+  <a href = "https://github.com/technophilist/kanbas-react-web-app/tree/main"> > Browse Frontend Repository </a>
+  <p> > Browse Backend Repository (Coming Soon)</p>
   </td>
   <td width = "480" height = "270">
   <!-- Surround img tag with <a> </a> with link to frontend repo-->
