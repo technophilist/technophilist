@@ -116,34 +116,14 @@
     <li> Bootstrap </li>
     <li> TypeScript </li>
   </ul>
-  <a href = "https://github.com/technophilist/kanbas-react-web-app/tree/main"> > Browse Frontend Repository </a>
-  <p> > Browse Backend Repository (Coming Soon)</p>
+  <a href = "https://github.com/technophilist/kanbas-react-web-app"> > Browse Frontend Repository </a> <br/>
+  <a href = "https://github.com/technophilist/kanbas-node-server-app"> > Browse Backend Repository </a>
   </td>
   <td width = "480" height = "270">
   <!-- Surround img tag with <a> </a> with link to frontend repo-->
   <img src = "screenshots/kanbas.png"/>
   </td>
 </tr>
-<!-- <tr>
-  <td>
-    <h4> Noteworthy (Work-in-progress) </h4>
-    <p align = "left"> A simple full stack notes web app built with React.</p>
-  <ul>
-    <li> React </li>
-    <li> Node.js </li>
-    <li> Express.js </li>
-    <li> TypeScript </li>
-    <li> Docker </li>
-  </ul>
-  <p> <a href = "https://github.com/technophilist/noteworthy-backend"> > Browse Backend Repository </a> </p>
-  <p></p>
-  <p> > Browse Frontend Repository (Coming Soon) </p>
-  </td>
-  <td width = "480" height = "270">
-  <!-- Surround img tag with <a> </a> with link to frontend repo-->
-<!--   <img src = "screenshots/noteworthy.png"/>
-  </td>
-</tr> -->
 </table>
 
 ## 💜 Kotlin Multiplatform 
