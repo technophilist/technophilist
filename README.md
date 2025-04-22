@@ -1,6 +1,5 @@
 # Hi there 👋
 - 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), TypeScript, Node.js, AWS, Docker.  
-- 📝 I’m currently working on : A fullstack notes app with React, Express.js, Node.js and TypeScript.
 - 😄 Pronouns : he/his
 - 📖 Blogs : I recently started writing technical blog posts. You can check them
   out [here](https://medium.com/@theAndroidDeveloper).
