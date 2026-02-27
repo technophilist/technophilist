@@ -1,5 +1,5 @@
 # Hi there 👋
-- 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), TypeScript, Node.js, AWS, Docker.  
+- 💛 Tools and Technologies I love : Kotlin, Kotlin Multiplatform (KMP), TypeScript, Node.js, Neovim, AWS, Docker.  
 - 😄 Pronouns : he/his
 - 📖 Blogs : I recently started writing technical blog posts. You can check them
   out [here](https://medium.com/@theAndroidDeveloper).
